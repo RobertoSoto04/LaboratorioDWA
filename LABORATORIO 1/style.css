@@ -1,0 +1,55 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.container{
+    margin: 10px auto auto auto;
+    width: 80%;
+    height: 500px;
+    background-color: bisque;
+    padding: 10px;
+    text-align: center;
+}
+
+.caja{
+    padding: 10px;
+    margin-top: 5px;
+    margin-right: 5px;
+    display: inline-block;
+    width: 195px;
+    height: 195px;
+    background-color: rgb(231, 46, 93);
+}
+
+#caja1{
+    border: 10px skyblue solid;
+}
+
+#caja2{
+    border: 10px skyblue dotted;
+}
+
+#caja3{
+    border: 10px skyblue double;
+}
+
+#caja4{
+    border: 10px skyblue groove;
+}
+
+#caja5{
+    border: 10px skyblue ridge;
+}
+
+#caja6{
+    border: 10px skyblue inset;
+}
+
+#caja7{
+    border: 10px skyblue outset;
+}
+
+#caja8{
+    border: 10px skyblue solid;
+}
