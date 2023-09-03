@@ -1,0 +1,47 @@
+.navegacion{
+    background-color: aqua;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    font-variant: small-caps;
+    text-align: center;
+    padding: 5px;
+
+}
+
+.encabezado{
+    background-color: brown;
+    padding: 5px;
+    border: 2px double rgb(228, 228, 228);
+}
+
+.logo{
+    width: 70%;
+    margin: auto;
+    border-radius: 100%;
+    margin-top: 10px;
+}
+
+.noticiaimg{
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin: auto;
+}
+
+.titular{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 30px;
+    font-variant: small-caps;
+}
+
+.subtitulo{
+    text-align: center;
+    margin-top: 10px;
+    font-variant: small-caps;
+}
+
+.articulo{
+    padding: 5px;
+}
